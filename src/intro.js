@@ -4,7 +4,7 @@ export function max(a, b) {
   else if (b > a) return b;
   return a;
 }
-/////
+/////test////
 // Exercise
 export function fizzBuzz(n) {
   if (n % 3 === 0 && n % 5 === 0) return "FizzBuzz";

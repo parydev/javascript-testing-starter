@@ -6,6 +6,7 @@ export function getCoupons() {
   ];
 }
 
+/////////
 // Lesson: Positive and negative testing
 export function calculateDiscount(price, discountCode) {
   if (typeof price !== 'number' || price <= 0) {
